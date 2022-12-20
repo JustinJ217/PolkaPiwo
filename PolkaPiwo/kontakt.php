@@ -80,7 +80,7 @@ include('nav.in.php')
                 <td></td>
                 <td>
                     <input type="submit" value="Abschicken" />
-                    <input type="reset" value="Zurücksetzen" />
+                    <input type="reset" value="Zurücksetzen12" />
                 </td>
             </tr>
             </tbody>
